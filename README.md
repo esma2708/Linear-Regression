@@ -1,4 +1,4 @@
-# Linear Regression
+# Linear Regression with regularisations and cross-validation code from scratch!
 Linear Regression with regularisations and cross-validation code from scratch!
 
 This analysis involves applying linear regression with regularization techniques. The dataset used for this analysis can be accessed at the following open-source website: http://cogsys.imm.dtu.dk/propulsionmodelling/data.html.
